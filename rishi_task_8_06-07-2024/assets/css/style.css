@@ -1,0 +1,22 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.function{
+    background-image: url(../images/side-view-man-playing-soccer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: white;
+}
+.title img{
+    width: 110px;
+}
